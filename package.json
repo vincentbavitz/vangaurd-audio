@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^4.0.3",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "util": "^0.12.5"
+  }
+}
